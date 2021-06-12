@@ -1,1 +1,1 @@
-# simple-example-node-with-postgresql
+# GEDX
